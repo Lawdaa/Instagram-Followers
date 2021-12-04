@@ -19,15 +19,9 @@ banner() {
 
 echo ""
 
-echo -e "\e[1;91m ═╦═\e[1;92m┌─┐ ┌┌──┐═╦═    _/\_    \e[1;91m╔══╗\e[1;92m┌──┐┬   ┬   ┌──┐┬ ┬ ┬──┬────"
+echo -e "\e[1;91m  The Secure Instagram Followers Increaser Tool. The Main Credit goes to Termux Professor (real generator of this tool) [1;92m"
 
-echo -e "\e[1;91m  ║ \e[1;92m│ │ ││     ║    _/  \_   \e[1;91m║   \e[1;92m│  ││   │    │  ││ │ │   │────"
-
-echo -e "\e[1;91m  ║ \e[1;92m│ │ │└──┐  ║  _/_____\_  \e[1;91m╠═╣ \e[1;92m│  ││   │   │  ││ │ │── │    │"
-
-echo -e "\e[1;91m  ║ \e[1;92m┘ └─┘└──┘  ║_/        \_ \e[1;91m║   \e[1;92m└──┘┴──┘┴──┘└──┘└─┴───┴──"
-
-echo -e "\e[1;91m ═╩═\e[1;92m      by - \e[1;92mCreator Pavan"
+echo -e "\e[1;91m  Designed by - \e[1;92mCreator Pavan"
 
 }
 
